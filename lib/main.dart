@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
-import 'Foodmenu.dart'; 
+import 'foodmenu.dart'; 
 
 void main() {
   runApp(const MyApp());
