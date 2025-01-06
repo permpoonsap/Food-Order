@@ -1,4 +1,4 @@
-class Foodmenu {
+class foodmenu {
   String name;
   String price;
   String ingredients;  
